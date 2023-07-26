@@ -1,24 +1,4 @@
 # -*- coding: utf-8 -*-
-#############################################################################
-#
-#    Cybrosys Technologies Pvt. Ltd.
-#
-#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>).
-#    Author: Jumana J(<https://www.cybrosys.com>)
-#
-#    You can modify it under the terms of the GNU AFFERO
-#    GENERAL PUBLIC LICENSE (AGPL v3), Version 3.
-#
-#    This program is distributed in the hope that it will be useful,
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#    GNU AFFERO GENERAL PUBLIC LICENSE (AGPL v3) for more details.
-#
-#    You should have received a copy of the GNU AFFERO GENERAL PUBLIC LICENSE
-#    (AGPL v3) along with this program.
-#    If not, see <http://www.gnu.org/licenses/>.
-#
-#############################################################################
 
 {
     'name': "Multiple Branch Setup for POS",
@@ -26,11 +6,11 @@
     'summary': """ Multiple Branch Operation Setup for Odoo POS""",
     'description': """ Manages Multiple Branch Operation setup for Odoo Point of 
                     sale.""",
-    'author': "Cybrosys Techno Solutions",
-    'company': "Cybrosys Techno Solutions",
-    'maintainer': "Cybrosys Techno Solutions",
-    'website': "https://cybrosys.com/",
-    'category': 'Point of sale',
+    'author': "BitsUp Technologies",
+    'company': "BitsUp Technologies",
+    'maintainer': "BitsUp Technologies",
+    'website': "https://bitsuptech.com/",
+    'category': 'Point of sale, FM',
     'depends': ['base', 'multi_branch_base', 'point_of_sale'],
     'data': [
         'security/multi_branch_pos_security.xml',

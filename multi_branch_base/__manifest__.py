@@ -1,24 +1,4 @@
 # -*- coding: utf-8 -*-
-#############################################################################
-#
-#    Cybrosys Technologies Pvt. Ltd.
-#
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
-#    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
-#
-#    You can modify it under the terms of the GNU LESSER
-#    GENERAL PUBLIC LICENSE (LGPL v3), Version 3.
-#
-#    This program is distributed in the hope that it will be useful,
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#    GNU LESSER GENERAL PUBLIC LICENSE (LGPL v3) for more details.
-#
-#    You should have received a copy of the GNU LESSER GENERAL PUBLIC LICENSE
-#    (LGPL v3) along with this program.
-#    If not, see <http://www.gnu.org/licenses/>.
-#
-#############################################################################
 
 {
     'name': "Multi Branch Operations",
@@ -28,11 +8,11 @@
     'description': """Multiple Branch Unit Operation Setup for All 
                       Modules In Odoo, Branch, Branch Operations, 
                       Multiple Branch, Branch Setup""",
-    'author': "Cybrosys Techno Solutions",
-    'company': "Cybrosys Techno Solutions",
-    'maintainer': "Cybrosys Techno Solutions",
-    'website': "https://www.cybrosys.com",
-    'category': 'Tools',
+    'author': "BitsUp Technologies",
+    'company': "BitsUp Technologies",
+    'maintainer': "BitsUp Technologies",
+    'website': "https://www.bitsuptech.com",
+    'category': 'Administration, FM',
     'depends': ['sale_management',
                 'sale_stock', 'purchase_stock',
                 'stock_account'],
